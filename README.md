@@ -102,8 +102,4 @@ Fork the repo, create a branch, and submit a PR. Focus on enhancing eco-impact c
 
 ## License
 
-MIT License. See LICENSE file for details.
-
-## Disclaimer
-
-This is a conceptual project. In a real deployment, audit contracts and comply with local regulations on crypto rewards and services.
+MIT License.
